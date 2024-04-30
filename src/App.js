@@ -6,7 +6,7 @@ import { InputData } from "./data";
 function App() {
   return (
     <div className="flex justify-center items-center flex-col">
-     <div className="w-1/2 h-full shadow-lg p-4">
+     <div className="w-1/2 h-full shadow-lg p-4 mt-20">
     <h3 className="font-bold text-2xl">Input Form</h3>
      {
       InputData && InputData.map((InputData,index)=>{
