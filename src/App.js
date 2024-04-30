@@ -16,7 +16,7 @@ function App() {
      })
 
      }
- <button className="px-4 py-2 bg-blue-500 hover:bg-blue-800 text-white my-10">Submit</button>
+ <button className="px-4 py-2 rounded-md bg-blue-500 hover:bg-blue-800 text-white my-10">Submit</button>
      </div>
 
     </div>
